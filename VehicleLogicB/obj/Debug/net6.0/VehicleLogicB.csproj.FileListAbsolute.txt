@@ -1,0 +1,14 @@
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.AssemblyInfoInputs.cache
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.AssemblyInfo.cs
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\bin\Debug\net6.0\VehicleLogicB.deps.json
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\bin\Debug\net6.0\VehicleLogicB.runtimeconfig.json
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\bin\Debug\net6.0\VehicleLogicB.dll
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\bin\Debug\net6.0\VehicleLogicB.pdb
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.dll
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\refint\VehicleLogicB.dll
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.pdb
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\VehicleLogicB.genruntimeconfig.cache
+C:\Users\Ismael\Desktop\Apuntes\VehicleApi\VehicleLogicB\obj\Debug\net6.0\ref\VehicleLogicB.dll
